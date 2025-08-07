@@ -16,8 +16,8 @@ This solution addresses the challenge of building models that can predict whethe
 
 ## Performance
 
-- Initial baseline: 0.57 AUC
-- Current leaderboard score: 0.60 AUC
+- Initial baseline: 0.81 AUC
+- Current leaderboard score: 0.867 AUC
 - Target performance: 0.90+ AUC
 
 ## Installation
@@ -25,7 +25,7 @@ This solution addresses the challenge of building models that can predict whethe
 ### Prerequisites
 
 - Python 3.8 or higher
-- CUDA-compatible GPU (recommended: 16GB+ VRAM)
+- CUDA-compatible GPU (recommended: 16GB+ VRAM)- kaggle notebooks(2X T4 gpus's)
 - Git
 
 ### Setup
