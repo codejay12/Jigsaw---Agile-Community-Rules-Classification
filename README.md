@@ -1,3 +1,4 @@
+![Jigsaw Banner](assets/Jigsaw.png)
 # Jigsaw Competition - Reddit Comment Rule Violation Prediction
 
 A machine learning solution for predicting Reddit comment rule violations using fine-tuned large language models. This project implements a comprehensive pipeline for data augmentation, model training, and ensemble inference to achieve high performance on the Jigsaw Agile Community Rules competition.
